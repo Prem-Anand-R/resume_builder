@@ -1,0 +1,52 @@
+.printButton {
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+.printButton1 {
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+.headingTemp2{
+    background-color: aqua;
+    padding: 5px;
+    background: linear-gradient(120deg,
+      #1c99fe 20.69%,
+      #7644ff 50.19%,
+      #fd4766 79.69%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#temp2body{
+    background-color: #428bb558;
+}
+
+.inputTemp1{
+    border: 1px solid white;
+    padding: 50px;
+    background-color: rgb(190, 230, 231);
+    border-radius: 20px;
+}
+.inputTemp2{
+    border: 1px solid white;
+    padding: 50px;
+    background: linear-gradient(120deg,
+      #91bde0 20.69%,
+      #7e6eaa 50.19%,
+      #bc7480 79.69%);
+    border-radius: 20px;
+}
+.headtemp2{
+    background-color: white;
+}
+
+
+/* index  */
+

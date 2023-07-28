@@ -1,0 +1,82 @@
+.rightTop{
+    position: absolute;
+    top: 280px;
+    left: 50px;
+  }
+  .rightTop img{
+    height: 200px;
+    width: 150px;
+    border-radius: 10px;
+  
+  }
+  .leftTop{
+    position: absolute;
+    top: 280px;
+    left: 80%;
+  }
+  .leftTop img{
+    height: 230px;
+    width: 200px;
+    border-radius: 10px;
+  
+  }
+  .rightDown{
+    position: absolute;
+    top: 600px;
+    left: 80%;
+  }
+  .rightDown img{
+    height: 200px;
+    width: 160px;
+    border-radius: 7px;
+  
+  }
+  .leftDown{
+    position: absolute;
+    top: 600px;
+    left: 50px;
+  }
+  .leftDown img{
+    height: 130px;
+    width: 200px;
+    border-radius: 10px;
+  
+  }
+ 
+  .hov:hover {
+    box-shadow: 5px 6px 6px 2px #4eb6c8;
+    transform: scale(0.9);
+  }
+  .resumeTemp img{
+    border: 0.5px solid rgb(241, 232, 232);
+  }
+  
+  .hover:hover {  
+    transform: scale(0.98);
+  }
+  .design{
+    background: linear-gradient(120deg,
+        #1c99fe 20.69%,
+        #7644ff 50.19%,
+        #fd4766 79.69%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .nav{
+    background-color: white;
+  }
+  .hovhead:hover{
+    background: linear-gradient(120deg,
+        #1c99fe 20.69%,
+        #7644ff 50.19%,
+        #fd4766 79.69%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+  }
+  .hovprice:hover {
+    box-shadow: 5px 6px 6px 2px #4f4d4df3;
+    transform: scale(0.9);
+  }
+ 
+  
